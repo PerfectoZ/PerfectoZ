@@ -19,7 +19,10 @@
 - Passionate Developer exploring REST APIs all day
 - Playing Counter Strike at spare time
 - Currently learning Web Development and API Development by Udemy Course
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/perfecto)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume]
+(https://read.cv/perfecto)
+- Upsolving and attempting Contests on Codeforces
+- 2000+ Questions Solved on LeetCode 
 
 <br><br>
 
@@ -92,6 +95,34 @@
 <a href="https://github.com/PerfectoZ/">
   <img src="https://github-readme-stats.vercel.app/api?username=PerfectoZ&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PerfectoZ&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="PerfectoZ"/>
+
+</a>
+</div>
+
+<br>
+<br>
+<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Leetcode Stats </b>
+<br>
+
+<div align="center">
+<a href="https://github.com/PerfectoZ/">
+  <img src="https://leetcard.jacoblin.cool/p3rf3ct0?theme=dark"/>
+
+</a>
+</div>
+
+<br>
+<br>
+<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Codeforces Stats </b>
+<br>
+
+<div align="center">
+<a href="https://github.com/PerfectoZ/">
+  <img src="https://codeforces-stats-api.herokuapp.com/stats?username=NAVI_Perfecto&theme=2"/>
 
 </a>
 </div>
