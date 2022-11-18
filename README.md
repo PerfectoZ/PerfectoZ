@@ -19,7 +19,7 @@
 - Passionate Developer exploring REST APIs all day
 - Playing Counter Strike at spare time
 - Currently learning Web Development and API Development by Udemy Course
-- I’m currently open for an Intern or a new job opportunity, this is my [Resume](https://read.cv/perfecto)
+- I’m currently open for an Intern or a new job opportunity, this is my [Resume](https://drive.google.com/file/d/1Tnh35jGCupPPXl3PMfVu9WKpui4abcyi/view?usp=share_link)
 - Upsolving and attempting Contests on Codeforces
 - 2000+ Questions Solved on LeetCode 
 
