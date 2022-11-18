@@ -19,8 +19,7 @@
 - Passionate Developer exploring REST APIs all day
 - Playing Counter Strike at spare time
 - Currently learning Web Development and API Development by Udemy Course
-- I’m currently open for an Intern or a new job opportunity, this is [my resume]
-(https://read.cv/perfecto)
+- I’m currently open for an Intern or a new job opportunity, this is my [Resume](https://read.cv/perfecto)
 - Upsolving and attempting Contests on Codeforces
 - 2000+ Questions Solved on LeetCode 
 
@@ -123,6 +122,7 @@
 <div align="center">
 <a href="https://github.com/PerfectoZ/">
   <img src="https://codeforces-stats-api.herokuapp.com/stats?username=NAVI_Perfecto&theme=2"/>
+  
 
 </a>
 </div>
