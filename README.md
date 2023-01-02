@@ -40,15 +40,15 @@
 
 <br>   
     
-- **Front-End Development**:
+<!--- **Front-End Development**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   <!-- ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) -->
+   <!-- ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br>
+<br> -->
 
-- **API Development**:
+- **REST API Development**:
 
    ![Flask](https://img.shields.io/badge/Flask%20-%23E34F26.svg?style=for-the-badge&logo=flask&logoColor=white)
    ![Postman](https://img.shields.io/badge/Postman%20-%231572B6.svg?style=for-the-badge&logo=postman&logoColor=white)
@@ -121,7 +121,7 @@
 
 <div align="center">
 <a href="https://github.com/PerfectoZ/">
-  <img src="https://codeforces-stats-api.herokuapp.com/stats?username=NAVI_Perfecto&theme=2"/>
+  <img src="https://codeforces-stats-api.herokuapp.com/stats?username=PerfectoZ&theme=2"/>
   
 
 </a>
