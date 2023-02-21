@@ -18,10 +18,10 @@
 
 - Passionate Developer exploring REST APIs all day
 - Playing Counter Strike at spare time
-- Currently learning Web Development and API Development by Udemy Course
+- Currently learning REST API Development by Udemy Course
 - I’m currently open for an Intern or a new job opportunity, this is my [Resume](https://drive.google.com/file/d/1Tnh35jGCupPPXl3PMfVu9WKpui4abcyi/view?usp=share_link)
 - Upsolving and attempting Contests on Codeforces
-- 2000+ Questions Solved on LeetCode 
+- 2100+ Questions Solved on LeetCode 
 
 <br><br>
 
@@ -35,8 +35,9 @@
 - **Languages**:
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![C++](https://img.shields.io/badge/C++%20-%AAFF00.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java%20-%23F7DF1E.svg?style=for-the-badge&logo=Java&logoColor=white)
 
 <br>   
     
@@ -52,30 +53,30 @@
 
    ![Flask](https://img.shields.io/badge/Flask%20-%23E34F26.svg?style=for-the-badge&logo=flask&logoColor=white)
    ![Postman](https://img.shields.io/badge/Postman%20-%231572B6.svg?style=for-the-badge&logo=postman&logoColor=white)
-   ![cURL](https://img.shields.io/badge/cURL%20-%23F7DF1E.svg?style=for-the-badge&logo=curl&logoColor=black)
+   ![Swagger-Ui](https://img.shields.io/badge/Swagger%20Ui%20-%23F7DF1E.svg?style=for-the-badge&logo=swagger-uil&logoColor=black)
+   ![SpringBoot](https://img.shields.io/badge/Spring%20Boot%20-%AAFF00.svg?style=for-the-badge&logo=springboot&logoColor=white)
+	![Docker](https://img.shields.io/badge/Docker%20-%231572B6.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Insomina](https://img.shields.io/badge/Insomina-%238A2BE2.svg?style=for-the-badge&logo=insomnia&logoColor=violet?labelColor=violet)
+	![Posgresql](https://img.shields.io/badge/PostgreSQL-%23FFFFFF.svg?style=for-the-badge&logo=postgresql&logoColor=violet?labelColor=violet)
 
 <br>
 
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Heroku](https://img.shields.io/badge/Heroku-%23327FC7.svg?style=for-the-badge&logo=heroku&logoColor=violet?labelColor=violet)
+    ![Heroku](https://img.shields.io/badge/Heroku-%238A2BE2.svg?style=for-the-badge&logo=heroku&logoColor=violet?labelColor=violet)
+    ![Google Cloud Platform](https://img.shields.io/badge/google%20Cloud%20Platform-%23F7DF1E.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+    ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078d7.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+    ![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 <br>
 
 - **Softwares and Tools**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google Cloud Platform](https://img.shields.io/badge/google%20Cloud%20Platform-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-    ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078d7.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Virtual Machines](https://img.shields.io/badge/Virtual%20Machines-%23054020?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 </p>
 
@@ -139,4 +140,4 @@
 
 Credit: [Mandeep Taneja](https://github.com/PerfectoZ)
 
-Last Edited on: 18/11/2022
+Last Edited on: 22/02/2023
