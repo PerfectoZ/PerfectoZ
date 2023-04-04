@@ -16,6 +16,7 @@
 
 <br>
 
+- Upcoming Summer Analyst'23 At Goldman Sachs (Controllers Divison)
 - Passionate Developer exploring REST APIs all day
 - Playing Counter Strike at spare time
 - Currently learning REST API Development by Udemy Course
@@ -37,23 +38,25 @@
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%AAFF00.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java%20-%23F7DF1E.svg?style=for-the-badge&logo=Java&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java%20-%23F7DF1E.svg?style=for-the-badge&logo=buymeacoffee&logoColor=black)
+	![Typescript](https://img.shields.io/badge/Typescript%20-%23FF0000.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 <br>   
     
-<!--- **Front-End Development**:
+- **Front-End Development**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   <!-- ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+	![React.js](https://img.shields.io/badge/React.js%20-%23FF0000.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
-<br> -->
+<br>
 
 - **REST API Development**:
 
    ![Flask](https://img.shields.io/badge/Flask%20-%23E34F26.svg?style=for-the-badge&logo=flask&logoColor=white)
    ![Postman](https://img.shields.io/badge/Postman%20-%231572B6.svg?style=for-the-badge&logo=postman&logoColor=white)
-   ![Swagger-Ui](https://img.shields.io/badge/Swagger%20Ui%20-%23F7DF1E.svg?style=for-the-badge&logo=swagger-uil&logoColor=black)
+   ![Swagger-Ui](https://img.shields.io/badge/Swagger%20Ui%20-%23F7DF1E.svg?style=for-the-badge&logo=swagger&logoColor=black)
    ![SpringBoot](https://img.shields.io/badge/Spring%20Boot%20-%AAFF00.svg?style=for-the-badge&logo=springboot&logoColor=white)
 	![Docker](https://img.shields.io/badge/Docker%20-%231572B6.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Insomina](https://img.shields.io/badge/Insomina-%238A2BE2.svg?style=for-the-badge&logo=insomnia&logoColor=violet?labelColor=violet)
