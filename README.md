@@ -16,13 +16,13 @@
 
 <br>
 
-- Upcoming Summer Analyst'23 At Goldman Sachs (Controllers Divison)
-- Passionate Developer exploring REST APIs all day
-- Playing Counter Strike at spare time
-- Currently learning REST API Development by Udemy Course
+- Former Summer Analyst'23 At Goldman Sachs (Controllers Divison)
+- Passionate Developer exploring REST APIs / Machine Learning Concepts all day
+- Playing Counter-Strike at my spare time
+- Currently working on Backend Development and MLOps
 - I’m currently open to Full Time Offers, this is my [Resume](https://drive.google.com/file/d/1Tnh35jGCupPPXl3PMfVu9WKpui4abcyi/view?usp=share_link)
 - Upsolving and attempting Contests on Codeforces
-- 2100+ Questions Solved on LeetCode 
+- 2300+ Questions Solved on LeetCode 
 
 <br><br>
 
@@ -143,4 +143,4 @@
 
 Credit: [Mandeep Taneja](https://github.com/PerfectoZ)
 
-Last Edited on: 22/02/2023
+Last Edited on: 18/09/2023
